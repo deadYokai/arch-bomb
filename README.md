@@ -1,4 +1,5 @@
 # arch-bomb
 
 Install: bash setup.sh
-Run: bash bomb.sh "<url>"
+
+Run: bash bomb.sh "\<url>\"
