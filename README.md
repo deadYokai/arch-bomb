@@ -2,4 +2,4 @@
 
 Install: `setup.bat`
 
-Run: `bomb.bat "<url>"`
+Run: `bomb.bat`
