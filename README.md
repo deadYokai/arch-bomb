@@ -1,6 +1,6 @@
 # arch-bomb
 
-To install WSL run `install-wsl.bat`
+To install WSL run `install-wsl.bat` after restart PC
 
 !! FOR ARCH WSL ONLY !!
 
