@@ -1,5 +1,7 @@
 # arch-bomb
 
+To install WSL run `install-wsl.bat`
+
 !! FOR ARCH WSL ONLY !!
 
 Download Arch.zip from https://github.com/yuk7/ArchWSL/releases/latest
